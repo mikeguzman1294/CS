@@ -1,0 +1,9 @@
+name: url-classification
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - scikit-learn
+  - nltk
